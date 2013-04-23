@@ -12,4 +12,4 @@ Currently in alpha. Demonstration of system status posting at https://alpha.app.
 
 ##Overview
 
-Most logging platforms can generate emails when errors occur. However, these messages can quickly stack up and fill your inbox. Monitor Invalid Mail allows an administrator to receive these error emails and view/search them through a web interface.
+Most logging platforms can generate emails when errors occur. Invalid Mail allows a developer to receive these error emails and view/search them through a web interface, or post them to another monitoring service.
